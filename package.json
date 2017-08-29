@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-react-intl",
-  "version": "1.0.2",
+  "name": "eslint-plugin-react-intl-papandreou",
+  "version": "1.0.2-patch1",
   "description": "React-intl specific linting rules for ESLint",
   "main": "index.js",
   "scripts": {
